@@ -138,10 +138,10 @@ MonoBehaviour:
   - title: Strip Line Debug
     position:
       serializedVersion: 2
-      x: 334
-      y: -481
-      width: 1180
-      height: 2731
+      x: 262
+      y: -482
+      width: 1250
+      height: 2702
     contents:
     - model: {fileID: 8926484042661615199}
       id: 0
@@ -372,10 +372,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -3112
+    x: -3087
     y: -1082
-    width: 6648
-    height: 3332
+    width: 6623
+    height: 3277
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1234,7 +1234,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.02
+      m_SerializableObject: 0.09
     m_Space: -1
   m_Property:
     name: _Size
@@ -2238,9 +2238,9 @@ MonoBehaviour:
       slotIndex: 0
   m_OutputFlowSlot:
   - link:
-    - context: {fileID: 8926484042661614730}
-      slotIndex: 0
     - context: {fileID: 8926484042661614894}
+      slotIndex: 0
+    - context: {fileID: 8926484042661614730}
       slotIndex: 0
   integration: 0
   angularIntegration: 0
@@ -2610,8 +2610,8 @@ MonoBehaviour:
   m_Owners:
   - {fileID: 8926484042661614784}
   - {fileID: 8926484042661614782}
-  - {fileID: 8926484042661614730}
   - {fileID: 8926484042661614894}
+  - {fileID: 8926484042661614730}
   dataType: 1
   capacity: 9
   stripCapacity: 1
@@ -3138,7 +3138,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 363, y: 33}
+  m_UIPosition: {x: 287, y: -64}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
